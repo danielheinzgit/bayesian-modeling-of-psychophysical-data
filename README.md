@@ -23,8 +23,10 @@ We have collected 14800 data points. Among other variables, each row in the tabl
 
 # Models
 
-Data analysis employed signal detection theory to compute sensitivity $ d' $ and criterion $ \lambda $, while the dataset was modeled using Bayesian linear regression, connecting linear regression to signal detection theory. Partial pooling across participants was introduced to improve the model.
+Data analysis employed signal detection theory to compute sensitivity $ d' $ and criterion $ \lambda $, while the dataset was modeled using Bayesian linear regression, connecting linear regression to signal detection theory (Vuorre, 2017). Partial pooling across participants was introduced to improve the model.
 
 # References
 
 Morgenstern, Y., Hartmann, F., Schmidt, F., Tiedemann, H., Prokott, E., Maiello, G., & Fleming, R. W. (2021). An image-computable model of human visual shape similarity. PLoS computational biology, 17(6), e1008981.
+
+Vuorre, Matti. 2017. “Bayesian Estimation of Signal Detection Models.” October 9, 2017. https://vuorre.com/posts/2017-10-09-bayesian-estimation-of-signal-detection-theory-models.
